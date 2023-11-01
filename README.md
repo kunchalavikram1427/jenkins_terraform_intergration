@@ -1,9 +1,8 @@
 # Terraform with Jenkins 
 
 ## Youtube Video URL
-```
-https://youtu.be/kIDiP3Unj7Y
-```
+[How to Use Terraform and Jenkins to Automate Infrastructure Setup](https://youtu.be/kIDiP3Unj7Y)
+
 ## Install Jenkins
 https://www.jenkins.io/doc/book/installing/kubernetes/#install-jenkins-with-helm-v3
 ```
