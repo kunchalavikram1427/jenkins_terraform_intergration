@@ -2,7 +2,7 @@
 
 ## Youtube Video URL
 ```
-https://
+https://youtu.be/kIDiP3Unj7Y
 ```
 ## Install Jenkins
 https://www.jenkins.io/doc/book/installing/kubernetes/#install-jenkins-with-helm-v3
