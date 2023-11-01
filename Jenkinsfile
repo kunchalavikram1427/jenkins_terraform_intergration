@@ -62,17 +62,5 @@ pipeline {
         }
       }
     }
-    // stage('Terraform Destroy'){
-    //   when { expression { true } }
-    //   steps {
-    //     container('terraform'){
-    //       withCredentials([usernamePassword(credentialsId: 'aws_creds', passwordVariable: 'AWS_SECRET_ACCESS_KEY', usernameVariable: 'AWS_ACCESS_KEY_ID')]) {
-    //         sh '''
-    //           terraform destroy -auto-approve
-    //         '''
-    //       }
-    //     }
-    //   }
-    // }
   }
 }       
